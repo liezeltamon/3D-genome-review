@@ -66,9 +66,9 @@ names(group_colours) <- names(features_lst)
 
 # Add Google font (e.g., Montserrat as a Futura-like alternative)
 #font_add_google("Montserrat", "mont")  # "mont" is the alias
-font_add("futura", regular = "futura.ttf")
-font_add("Courier New", regular = "Courier New.ttf")
-font_add("Courier", regular = "Courier.ttf")
+font_add("futura", regular = "fonts/futura.ttf")
+font_add("Courier New", regular = "fonts/Courier New.ttf")
+font_add("Courier", regular = "fonts/Courier.ttf")
 font = "Courier"
 
 # Enable showtext
